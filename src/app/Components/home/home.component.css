@@ -1,0 +1,19 @@
+.view {
+    background: url('/../assets/Images/ai.jpg')no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+
+}
+.text-center{
+	padding-top: 140px;
+}
+.white-text h2{
+	color: #00FFA5 ;
+}
+.heading{
+	padding-top: 57px;
+    color: red;
+    font-size: 100px;
+    font-family: sans-serif;
+}
